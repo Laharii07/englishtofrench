@@ -1,0 +1,2 @@
+icon_path = os.path.join(script_directory, 'C:\Users\LAHARI\OneDrive\Documents\my_vs_codes\project translator\myicon.ico')
+root.iconbitmap(icon_path)
